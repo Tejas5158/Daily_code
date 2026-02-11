@@ -13,3 +13,7 @@ select *
 from teacher;
 
 insert into student values(11,'Mangesh','10 B'); 
+
+insert INTO student values(12,'Suresh','10 A');
+
+
